@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_signup_form/static/css/main.36fb702c.css",
+    "main.js": "/React_signup_form/static/js/main.6af38fd9.js",
+    "index.html": "/React_signup_form/index.html",
+    "main.36fb702c.css.map": "/React_signup_form/static/css/main.36fb702c.css.map",
+    "main.6af38fd9.js.map": "/React_signup_form/static/js/main.6af38fd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36fb702c.css",
+    "static/js/main.6af38fd9.js"
+  ]
+}
