@@ -64,11 +64,11 @@ const App = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // setValues( {username: "",
-    // email: "",
-    // phone: "",
-    // password: "",
-    // confirmPassword: ""});
+    setValues( {username: "",
+    email: "",
+    phone: "",
+    password: "",
+    confirmPassword: ""});
     // setFocused(false);
   };
 
